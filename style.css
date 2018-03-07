@@ -3,3 +3,18 @@ background-image:url(img/cloud.jpg);
 background-attachment: fixed;
 background-size: cover;
 }
+
+body h1 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th, td {
+  border: 3px solid black;
+  height: 40px;
+}
