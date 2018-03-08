@@ -35,3 +35,7 @@ img:hover {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
+
+footer{
+   text-shadow: 2px 2px 4px #000000;
+}
